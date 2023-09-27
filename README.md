@@ -1,4 +1,4 @@
-# Web Project [Intro to HotS]
+# Intro to HotS -- A Web Project
 
 
 
