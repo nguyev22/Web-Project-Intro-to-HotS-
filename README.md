@@ -1,6 +1,6 @@
 # Intro to HotS - A Web Project
 
-****Introduction:****
+**Introduction:**
 
 "Intro to HotS" is a tribute to the beloved game Heroes of the Storm, a game that held a special place in the hearts of many, despite its smaller player base compared to giants like League of Legends. As a former player who cherished the game, this project serves as a homage to the unique world of Heroes of the Storm.
 
