@@ -1,20 +1,20 @@
 # Intro to HotS - A Web Project
 
-<u>**Introduction:**</u>
+*Introduction:*
 
 "Intro to HotS" is a tribute to the beloved game Heroes of the Storm, a game that held a special place in the hearts of many, despite its smaller player base compared to giants like League of Legends. As a former player who cherished the game, this project serves as a homage to the unique world of Heroes of the Storm.
 
-<u>**Project Overview:**</u>
+*Project Overview:*
 
 The locally hosted web page provides a comprehensive exploration of what made Heroes of the Storm stand out in the crowded realm of MOBA games. It highlights the distinctive features that set it apart from similar games like League of Legends and Dota 2. Whether you're a seasoned player or someone looking to start their journey in the Nexus, this project is a valuable resource.
 
-<u>**Navigating the Content:**</u>
+*Navigating the Content:*
 
 - Click on the "Battlegrounds" tab to discover what makes Heroes of the Storm's map design and objectives unique.
 - Explore the "Heroes" tab to learn about the diverse roster of characters and their abilities that define the game's dynamic gameplay.
 - While the professional competitive scene may have dissolved, Heroes of the Storm remains an enjoyable game to experience casually.
 
-<u>**Getting Started:**</u>
+*Getting Started:*
 
 1. Clone or download the project files to your local machine.
 2. Open `index.html` in your preferred web browser to access the project content.
